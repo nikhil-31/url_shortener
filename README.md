@@ -2,7 +2,8 @@
 
 ### Overview
 Fast API implementation of a URL shortener,
-Features 
+
+#### Features
 1. Create a shortened URL
 2. Forward to target URL using the shortened URL
 3. Admin info - clicks on the shortened URL
